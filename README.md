@@ -18,6 +18,7 @@ Ou ainda, para o locador comum, dado o imóvel que ele está buscando, ajudar a 
 
 
 O QUE TEMOS DISPONÍVEIS, INSPIRAÇÕES E CRÉDITOS
+
 As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
 
 As bases de dados são os preços dos imóveis obtidos e suas respectivas características em cada mês.
