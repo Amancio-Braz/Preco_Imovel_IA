@@ -1,9 +1,8 @@
 # Preco_Imovel_IA
  ETAPAS QUE SERÃO ANALISADAS:
 
- Entendimento do desafio
- 
- Entendimentoda Empresa/Área
+ Entendimento do desafio.
+  Entendimentoda Empresa/Área
  
  Extração/Obtenção de daos
  
