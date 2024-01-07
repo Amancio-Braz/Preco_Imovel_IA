@@ -2,12 +2,19 @@
  ETAPAS QUE SERÃO ANALISADAS:
 
  Entendimento do desafio
+ 
  Entendimentoda Empresa/Área
+ 
  Extração/Obtenção de daos
+ 
  Ajustes de Dados (Limpeza de Dados)
+ 
  Análise Explorativa
+ 
  Modelagem + Algorítmo
+ 
  Interpretaçãodos Resultados
+ 
  Deploy/Produção
 
 CONTEXTO:
