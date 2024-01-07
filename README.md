@@ -75,6 +75,7 @@ Passo 9 - Modelo Previsão
          * Escolhas dos Modelos a Testar
          * Treino e avalioação
 Passo 10 - Snálise do Meçhor Modelo
+Passo 11 - Ajustes do Melhor Modelo
 
 Análise Exploratória e Tratar Outliiers
     -Dados Numéricos Contínuos e Discretor
@@ -82,7 +83,8 @@ Análise Exploratória e Tratar Outliiers
     -Dados de Lista
     -Dados de Mapa
 
-
+Passo 2 - Importat  a Base de Dados.
+     Como a nossa base de dados está apresentanda por mês vamos consolidá-la par aque possamos ter uma única tabela, ou seja, uma única base de dados.
 
 
     
