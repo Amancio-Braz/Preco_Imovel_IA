@@ -56,31 +56,54 @@ Explicação do Problema e do objetivo
 Consiolidar a base de dados em cada coluna
 
 Passo 1 - Explicação do Problema e do objetivo.
+
 Passo 2 - Importat  a Base de Dados.
+
 Passo 3 - Consolidar a Base de Dados.
+
 Passo 4 - Se tiver muitas colunas, identificar quais são possíveis excluir.
+
 Passo 5 - Tratar valores faltando.
+
 Passo 6 - Verificar tipos de Dados emcada coluna
+
 Passo 7- Análise Exploratória e Tratar Outliers
+
          * Dados Numéricos Contínuos e Discretos
+         
          * Dadows de Trxtos (Categorias)
+         
          * Dados de Listas
+         
          * Dados de Mapa
 PSSSO 8 - Ecoding
+
          * Dados True ou False
+         
          * Dados categoria Texto
+         
 Passo 9 - Modelo Previsão
+
          * Métricas de Previsão
+         
          * Definição do Tipo de Modelo
+         
          * Escolhas dos Modelos a Testar
+         
          * Treino e avalioação
+         
 Passo 10 - Snálise do Meçhor Modelo
+
 Passo 11 - Ajustes do Melhor Modelo
 
 Análise Exploratória e Tratar Outliiers
+
     -Dados Numéricos Contínuos e Discretor
+    
     -Dados de Texto (Categorias)
+    
     -Dados de Lista
+    
     -Dados de Mapa
 
 Passo 2 - Importat  a Base de Dados.
