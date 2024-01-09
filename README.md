@@ -125,6 +125,37 @@ Colunas a serem excluídas:
     neighborhood_overview, notes, transit, access, interaction, house_rules, thumbnail_url, medium_url - são explicações
     picture_url, 	xl_picture_url,	host_id, 	host_url, 	host_name, host_since, host_location - não contribuiem com o objetivo
     host_about - não contribui com o objetivo
+    host_response_time -  não contribui com o objetivo
+    host_response_rate  -  não contribui com o objetivo
+    host_acceptance_rate  -  não contribui com o objetivo
+    host_thumbnail_url,	host_picture_url, host_neighbourhood  -  não contribui com o objetivo
+    host_total_listings_count - retirada porque apresenta valores iguais `coluna host_listings_count
+    host_verifications -  não contribui com o objetivo
+    host_verifications -  não contribui com o objetivo
+    host_has_profile_pic -  não contribui com o objetivo
+    host_identity_verified -  não contribui com o objetivo
+    street,	neighbourhood,	neighbourhood_cleansed,	neighbourhood_group_cleansed,	city,	state,	zipcode,	market,	smart_location,	country_code	country - serão representados pelas coordenadas
+    is_location_exact - contempladacom as coodenadas
+    square_feet - Apresenta mais de 888.000 valores vazios
+    weekly_price,	monthly_price - retirado porque estou considerando valor de diária
+    calendar_updated-  não contribui com o objetivo
+    has_availability -  não contribui com o objetivo
+    availability_30,	availability_60,	availability_90, availability_365  -  não contribui com o objetivo
+    calendar_last_scraped -  não contribui com o objetivo
+    first_review	last_review -  não contribui com o objetivo
+    requires_license,	license,	jurisdiction_names -  não contribui com o objetivo
+    require_guest_profile_picture	require_guest_phone_verification -  não contribui com o objetivo
+    calculated_host_listings_count -  não contribui com o objetivo
+    reviews_per_month -  não contribui com o objetivo
+
+
+
+
+
+
+
+
+
 
 
 
